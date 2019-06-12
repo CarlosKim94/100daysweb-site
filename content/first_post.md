@@ -17,4 +17,8 @@ We're writing this in Markdown format so we can use two * symbols to indicate a 
 We can also use a single * around a block of text to indicate an *italicised* word.
 
 
+###Let's throw an image in here
+
+![PyBites Logo]({static}/images/pb-logo.png)
+
 THE END! (Cool story bro!)
